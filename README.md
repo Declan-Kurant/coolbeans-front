@@ -4,7 +4,7 @@ Cool Beans is an app that recommends you different varieties of coffee based on 
 
 
 # Getting Started
-1. Install the back-end API of our app by following the instructions [here](https://github.com/mortiz01/coolbeans-back).
+1. Install the back-end API of our app by following the instructions [here](https://github.com/Declan-Kurant/coolbeans-back).
 2. Fork and clone this repo.
 3. In your terminal, run ```npm install```.
 4. Run ```npm run start```.
